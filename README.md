@@ -49,4 +49,3 @@ export default tseslint.config({
 })
 ```
 # photo-gallery
-# photo-gallery
